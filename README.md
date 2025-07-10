@@ -41,7 +41,7 @@ DoDo-Dump.exe -h
                                              ---数据库转储备份工具
                                              -h 查看详细使用方法
 
-Usage of C:\Users\0xice\Desktop\DoDo-Dump\DoDo-Dump.exe:
+Usage of DoDo-Dump.exe:
   -addr string
         数据库地址 (default "localhost")
   -db string
